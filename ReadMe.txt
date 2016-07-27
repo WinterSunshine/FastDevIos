@@ -1,4 +1,10 @@
-ReamdMe
-ReamdMe
-ReamdMe
-ReamdMe
+集成APPStore检测更新
+Json解析引入第三方MJExtension
+Http封装Loading进度条
+自定义XTableView集成列表无数据显示功能
+APP崩溃退出，日志记录
+集成SDWebImage组件，提供图片加载带缓存机制
+一组常用的工具类
+一组常用的自定义的组件(自定义吐司、焦点图轮播、单选按钮、分段选择、PopView) 
+一组常用的工具类(Device、Time、System、Rule)
+提供一个示例Demo
